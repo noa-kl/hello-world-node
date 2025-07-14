@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: node:14
+        image: noakl/hello-world-nodejs:v1
         ports:
         - containerPort: 3000
         env:
