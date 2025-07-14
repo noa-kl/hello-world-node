@@ -5,3 +5,4 @@ metadata:
   namespace: nodejs-app
 data:
   MY_CONFIG: "This is the value from the ConfigMap"
+  MY_CONFIG2: "this is actually sychronized!!"
