@@ -2,6 +2,6 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: my-config
-  namespace: default
+  namespace: argocd
 data:
   MY_CONFIG: "This is the value from the ConfigMap"
