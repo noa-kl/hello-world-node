@@ -4,5 +4,5 @@ metadata:
   name: my-config
   namespace: nodejs-app
 data:
-  MY_CONFIG: "This is the value from the ConfigMap"
+  MY_CONFIG: "noa kleinman"
   MY_CONFIG2: "this is actually sychronized!!"
